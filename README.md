@@ -32,7 +32,7 @@ Custom Carousel Logic – Item rotation and class toggling
 Font: Poppins – Clean and modern typography from Google Fonts
 
 🌐 Live Demo
-🔗 GitHub Pages: 
+🔗 GitHub Pages: https://simarpreetsaini.github.io/Airpodes_landing_page/#
 
 📁 Folder Structure
 
