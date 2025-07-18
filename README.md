@@ -45,6 +45,9 @@ Font: Poppins – Clean and modern typography from Google Fonts
 
 <img width="1882" height="906" alt="12" src="https://github.com/user-attachments/assets/183f3be0-fcbc-41fe-8a1c-5aaec42f84f2" />
 
+<img width="416" height="338" alt="13" src="https://github.com/user-attachments/assets/8261557a-b7fa-45bf-9673-e444b1291488" />
+
+
 
 ✨ Key Highlights
 Responsive Layout: Perfectly adapts to tablets and mobile devices
