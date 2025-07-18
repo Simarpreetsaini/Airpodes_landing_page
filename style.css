@@ -589,4 +589,46 @@ header nav a:active {
 .logo a:active {
   transform: scale(0.95);
 }
+/* Base menu toggle button */
+.menu-toggle {
+  display: none;
+  font-size: 1.8rem;
+  background: none;
+  border: none;
+  color: #000;
+  cursor: pointer;
+}
 
+@media screen and (max-width: 768px) {
+  header {
+    flex-wrap: wrap;
+  }
+
+  .menu-toggle {
+    display: block;
+  }
+
+  nav#nav-links {
+    width: 100%;
+    display: none;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #f4f4f4;
+    padding: 10px 0;
+  }
+
+  nav#nav-links.active {
+    display: flex;
+  }
+
+  nav#nav-links a {
+    padding: 10px 20px;
+    border-top: 1px solid #ccc;
+    color: #222;
+  }
+
+  nav#nav-links a:hover {
+    background-color: #000;
+    color: #fff;
+  }
+}
