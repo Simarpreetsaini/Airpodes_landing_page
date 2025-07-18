@@ -38,8 +38,11 @@ Font: Poppins – Clean and modern typography from Google Fonts
 
 <img width="901" height="142" alt="6" src="https://github.com/user-attachments/assets/37e8330a-ce7c-4c55-b48a-b71998e3f5d8" />
 
+
+
 📸 Overview
 <img width="1881" height="902" alt="11" src="https://github.com/user-attachments/assets/3c22ddea-cd82-4a23-a9e5-67fa2ca083c4" />
+
 <img width="1882" height="906" alt="12" src="https://github.com/user-attachments/assets/183f3be0-fcbc-41fe-8a1c-5aaec42f84f2" />
 
 
@@ -65,4 +68,5 @@ Custom Animation Timing: Delayed reveal of content with smooth fade and blur
 
 📜 License
 Licensed under the MIT License – feel free to use, modify, and share.
+
 Made with ❤️ by Simarpreet Singh
